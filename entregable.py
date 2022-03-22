@@ -61,9 +61,4 @@ elif opcion == '3':
 
 
 else:
-<<<<<<< HEAD
-    print('Debes2 de elegir una opcion anterior')
-=======
     print('Debes de elegir una opcion anterior')
->>>>>>> 9a5e11cf3047b0a2e7bb7deb2e24924b4a8d65f7
-
