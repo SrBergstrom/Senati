@@ -61,5 +61,5 @@ elif opcion == '3':
 
 
 else:
-    print('perro debes de elegir una opcion anterior')
+    print('Debes de elegir una opcion anterior')
 
